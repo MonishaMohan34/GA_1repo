@@ -3,7 +3,6 @@ uvicorn
 requests
 pydantic
 requests
-subprocess
 json
 os
 python-dotenv
