@@ -4,6 +4,5 @@ requests
 pydantic
 requests
 python-dotenv
-shutil
 hashlib
 numpy
