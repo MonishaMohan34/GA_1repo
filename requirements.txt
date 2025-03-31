@@ -2,3 +2,11 @@ fastapi
 uvicorn
 requests
 pydantic
+requests
+subprocess
+json
+os
+python-dotenv
+shutil
+hashlib
+numpy
